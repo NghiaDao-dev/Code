@@ -1,3 +1,4 @@
 <?php
-echo "login"; 
+echo "login";
+$a = 2; 
 ?>
