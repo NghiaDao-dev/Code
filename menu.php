@@ -1,3 +1,3 @@
 <?php
-echo "MENU TRANG CHỦ"; 
+echo "MENU ĐÃ VIẾT HOA"; 
 ?>
